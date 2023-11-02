@@ -1,7 +1,7 @@
 # Blocko
 
-Endless platforming game!
+Endless platforming game available on Android and in your web browser.
+
+Play on Android at [https://play.google.com/store/apps/details?id=com.WilliamHaslet.Blocko](https://play.google.com/store/apps/details?id=com.WilliamHaslet.Blocko)
 
 Play in your browser at [https://williamhaslet.itch.io/blocko](https://williamhaslet.itch.io/blocko)
-
-Warning: This repo is only intended to hold the code for the game and most of the art is not included.
